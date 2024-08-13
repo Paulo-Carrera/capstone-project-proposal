@@ -1,0 +1,44 @@
+Capstone Project Proposal 
+
+SUPERHERO UNIVERSE DATABASE PROJECT
+
+TECH STACK:
+HTML
+CSS(with bootstrap, fontawesome)
+Python(with Jinja)
+Flask(with FlaskWTForms)
+SQL, PostgreSQL 
+JavaScript?
+
+
+FOCUS:
+The main focus of the project will be the back-end and 
+correctly using an API (https://superheroapi.com/?ref=apilist.fun)
+to manipulate and extract data and implement it into my own site .
+A full-stack website will be made out of this project.
+
+
+TYPE:
+Website
+
+
+GOAL:
+To build a fun, interactive and visually appealing website where
+superhero fans can inspect information on their favorite characters,
+their universes and more. With the API, I will attempt to implement 
+different features such as comparison, universe information, character 
+descriptions, and more.
+
+
+USERS:
+Superhero and comicbook fans.
+
+
+DATA:
+Data Source: https://superheroapi.com/?ref=apilist.fun
+Data To Collect: superhero names, abilities/powers, universe, descriptions
+Collection Method: External API integration 
+
+
+
+
